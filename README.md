@@ -120,9 +120,9 @@ If you use this work, please cite our paper:
 ---
 
 ## Authors
-- **Sina Bagheri Nezhad**
-- **Sayan Bandyapadhyay**
-- **Ameeta Agrawal**
+- **[Sina Bagheri Nezhad](https://sinaai.github.io/)**
+- **[Sayan Bandyapadhyay](https://sites.google.com/view/sayan-bandyapadhyay/home)**
+- **[Ameeta Agrawal](https://web.cecs.pdx.edu/~ameeta/)**
 
 ---
 
