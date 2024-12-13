@@ -6,7 +6,7 @@ This repository contains the resources and related materials for the paper:
 *Sina Bagheri Nezhad, Sayan Bandyapadhyay, Ameeta Agrawal*  
 Published on arXiv: [arXiv:2411.07521](https://arxiv.org/abs/2411.07521)  
 Presented at the **Algorithmic Fairness through the Lens of Metrics and Evaluation Workshop**  
-at The 38th Conference on Neural Information Processing Systems (NeurIPS 2024), Vancouver, Canada.  
+*The 38th Conference on Neural Information Processing Systems (NeurIPS 2024), Vancouver, Canada.*
 
 ---
 
