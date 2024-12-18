@@ -2,9 +2,8 @@
 
 This repository contains the resources and related materials for the paper:
 
-**Fair Summarization: Bridging Quality and Diversity in Extractive Summaries**  
+**[Fair Summarization: Bridging Quality and Diversity in Extractive Summaries](https://arxiv.org/abs/2411.07521)**  
 *Sina Bagheri Nezhad, Sayan Bandyapadhyay, Ameeta Agrawal*  
-Published on arXiv: [arXiv:2411.07521](https://arxiv.org/abs/2411.07521)  
 Presented at the **Algorithmic Fairness through the Lens of Metrics and Evaluation Workshop**  
 *The 38th Conference on Neural Information Processing Systems (NeurIPS 2024), Vancouver, Canada.*
 
