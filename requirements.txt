@@ -1,6 +1,6 @@
 spacy~=3.6.1
 torch~=1.13.1+rocm5.2
-transformers~=4.33.2
+transformers
 setuptools~=68.0.0
 numpy~=1.24.1
 sentencepiece~=0.1.99
