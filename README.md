@@ -7,6 +7,9 @@ This repository contains the resources and related materials for the paper:
 Presented at the **Algorithmic Fairness through the Lens of Metrics and Evaluation Workshop**  
 *The 38th Conference on Neural Information Processing Systems (NeurIPS 2024), Vancouver, Canada.*
 
+Presented at and proceeded with **The 3rd Workshop on Cross-Cultural Considerations in NLP**  
+*2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025), Albuquerque, New Mexico, USA.*
+
 ---
 
 ## Overview
