@@ -86,14 +86,14 @@ We introduce **composite metrics** (e.g., SUPERT+F, BLANC+F) that integrate fair
 | Model                  | SUPERT+F | BLANC+F | SumQA+F | BARTSc+F | UniEval+F |
 |------------------------|----------|---------|---------|----------|-----------|
 | **Clustering-based Methods** |          |         |         |          |           |
-| 	exttt{Naive}         | 0.585    | 0.609   | 0.468   | 0.713    | 0.601     |
-| 	exttt{NaiveFair}     | 0.720    | 0.749   | 0.606   | **0.848**| 0.732     |
-| 	exttt{TextRank Vanilla} | 0.585    | 0.531   | 0.494   | 0.703    | 0.605     |
-| 	exttt{TextRank Cluster-A} | 0.571    | 0.513   | 0.467   | 0.689    | 0.577     |
-| 	exttt{TextRank Cluster-H} | 0.579    | 0.521   | 0.478   | 0.687    | 0.588     |
-| 	exttt{BERT-EXT Vanilla} | 0.582    | 0.590   | 0.453   | 0.725    | 0.578     |
-| 	exttt{BERT-EXT Cluster-A} | 0.616    | 0.615   | 0.479   | 0.737    | 0.604     |
-| 	exttt{BERT-EXT Cluster-H} | 0.598    | 0.583   | 0.457   | 0.723    | 0.564     |
+| 	Naive         | 0.585    | 0.609   | 0.468   | 0.713    | 0.601     |
+| 	NaiveFair     | 0.720    | 0.749   | 0.606   | **0.848**| 0.732     |
+| 	TextRank Vanilla | 0.585    | 0.531   | 0.494   | 0.703    | 0.605     |
+| 	TextRank Cluster-A | 0.571    | 0.513   | 0.467   | 0.689    | 0.577     |
+| 	TextRank Cluster-H | 0.579    | 0.521   | 0.478   | 0.687    | 0.588     |
+| 	BERT-EXT Vanilla | 0.582    | 0.590   | 0.453   | 0.725    | 0.578     |
+| 	BERT-EXT Cluster-A | 0.616    | 0.615   | 0.479   | 0.737    | 0.604     |
+| 	BERT-EXT Cluster-H | 0.598    | 0.583   | 0.457   | 0.723    | 0.564     |
 | **FairExtract (Ours)** | **0.724** | **0.758**| **0.607**| 0.845    | **0.747** |
 | **LLM-based Methods** |          |         |         |          |           |
 | 	exttt{ChatGPT-EXT}   | 0.737    | 0.607   | 0.454   | 0.817    | 0.611     |
