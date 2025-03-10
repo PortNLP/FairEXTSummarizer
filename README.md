@@ -96,7 +96,7 @@ We introduce **composite metrics** (e.g., SUPERT+F, BLANC+F) that integrate fair
 | 	BERT-EXT Cluster-H | 0.598    | 0.583   | 0.457   | 0.723    | 0.564     |
 | **FairExtract (Ours)** | **0.724** | **0.758**| **0.607**| 0.845    | **0.747** |
 | **LLM-based Methods** |          |         |         |          |           |
-| 	exttt{ChatGPT-EXT}   | 0.737    | 0.607   | 0.454   | 0.817    | 0.611     |
+| 	ChatGPT-EXT   | 0.737    | 0.607   | 0.454   | 0.817    | 0.611     |
 | **FairGPT (Ours)**     | **0.837**| **0.760**| **0.615**| **0.945**| **0.751** |
 
 *Table: Evaluation results using composite metrics for clustering-based and LLM-based summarization methods. The best values for each metric are highlighted in bold.*
